@@ -1,5 +1,4 @@
 # General_Election_Results_Analysis_india_2024
-Here’s a description you can use for your GitHub repository related to the analysis of the **General Election 2024 in India** using Power BI:
 
 ---
 
